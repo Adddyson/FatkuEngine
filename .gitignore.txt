@@ -48,3 +48,17 @@ ipch/
 *.pidb
 *.svclog
 *.scc
+
+## Asset files
+assets/
+**/assets/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.mp3
+*.wav
+*.ogg
+*.ttf
+*.map
