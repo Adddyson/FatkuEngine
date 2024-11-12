@@ -1,0 +1,44 @@
+﻿  Collision.cpp
+  ECS.cpp
+  Game.cpp
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(28,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(29,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(40,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(41,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+C:\Dev\FatkuEngine\Src\Game.cpp(107,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\FatkuEngine\Src\Game.cpp(108,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(28,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Src/Map.cpp')
+  
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(29,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Src/Map.cpp')
+  
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(40,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Src/Map.cpp')
+  
+C:\Dev\FatkuEngine\Src\ECS\TileComponent.h(41,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Src/Map.cpp')
+  
+  TextureManager.cpp
+  Vector2D.cpp
+  Game.h
+  GameObject.h
+  Map.h
+  TextureManager.h
+  Generating Code...
+FatkuEngine\Debug\Game.obj : warning LNK4042: object specified more than once; extras ignored
+FatkuEngine\Debug\GameObject.obj : warning LNK4042: object specified more than once; extras ignored
+FatkuEngine\Debug\Map.obj : warning LNK4042: object specified more than once; extras ignored
+FatkuEngine\Debug\TextureManager.obj : warning LNK4042: object specified more than once; extras ignored
+  FatkuEngine.vcxproj -> C:\Dev\FatkuEngine\Debug\FatkuEngine.exe
